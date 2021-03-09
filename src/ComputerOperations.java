@@ -6,5 +6,4 @@ public interface ComputerOperations {
 	public void performUpload();
 	public void playVideo();
 	public void playMusic();	
-
 }
